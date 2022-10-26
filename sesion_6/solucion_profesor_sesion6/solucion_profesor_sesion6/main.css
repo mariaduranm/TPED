@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;  
+}
+
+body {
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+div {
+    height: 1920px;
+    padding: 100px;
+    
+}
+
+#cabecera {    
+    background-image: url(imagenes/fondo.jpg);
+}
+
+#centro {    
+    background-color: brown;
+    width: 80%;
+    margin-left: 10%;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 100;
+}
+
+h2 {
+    margin-bottom: 100px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.fuentePequena {
+    font-size: 14px;
+    color: rgb(113, 113, 113);    
+}
+
+#menuCentro {
+    margin-top: 100px;
+}
+
+#pie {    
+    background-color: black;
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+ul {
+    width: 90%;
+    list-style-type: none; 
+    padding-left: 0;
+}
+
+li {
+    display: inline-block;
+    margin-top: 30px;
+    background-color: antiquewhite;
+    padding: 2%;
+}
