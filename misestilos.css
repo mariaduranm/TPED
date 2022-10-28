@@ -1,0 +1,33 @@
+* { 
+    width: 100%;
+    margin: 3%;
+    color: white;
+    font-size: 13pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+    background-image: url(img/background.jpg);
+    margin: auto;
+}
+
+h1 {
+    font-size: 30pt;
+}
+
+h2 {
+    font-size: 25pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a:link {
+    color: rgb(220, 186, 255);
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(146, 45, 255);
+}
