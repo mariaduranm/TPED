@@ -22,8 +22,8 @@ h2 {
 }
 
 a:link {
-    color: rgb(220, 186, 255);
     background-color: white;
+    color: aqua;
     padding: 20px;
     text-align: center;
 }
