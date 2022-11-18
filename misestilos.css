@@ -22,8 +22,8 @@ h2 {
 }
 
 a:link {
+    color: black;
     background-color: white;
-    color: rebeccapurple;
     padding: 20px;
     text-align: center;
 }
