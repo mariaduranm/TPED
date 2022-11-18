@@ -14,12 +14,19 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: 15pt;
-    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     position: sticky;
     top: 0;
+}
+
+#prueba:hover {
+    color: white;  
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+
 }
 
 div {
